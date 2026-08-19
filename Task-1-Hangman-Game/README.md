@@ -51,7 +51,7 @@ Hangman-Game/
 ├── hangman.py
 └── README.md
 ```
-
+..
 
 ## Author
 
